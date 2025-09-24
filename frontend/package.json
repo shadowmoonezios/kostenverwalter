@@ -1,0 +1,10 @@
+{
+  "name": "kostenverwalter-frontend",
+  "version": "1.0.0",
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  }
+}
